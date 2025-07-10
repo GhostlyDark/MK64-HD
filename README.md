@@ -1,10 +1,8 @@
-# Mario Kart 64 HD
+# MK64 Reloaded
 
-This is a high-definition texture pack for the game Mario Kart 64, for emulators capable of loading High Resolution textures, including any emulator using GLideN64 as video plugin such as Project64, Mupen64Plus and RetroArch as well as Dolphin using a Mario Kart 64 (Wii VC) .wad file.
+This is an HD texture pack for Mario Kart 64 for GLideN64 + Recomp and [Dolphin](https://github.com/GhostlyDark/mk64-reloaded-dolphin).
 
-[Discord Server](https://discord.gg/Wva8Rwf)
-
-![](/mk64hd.jpg)
+![](/mk64-reloaded.jpg)
 
 # Install
 
@@ -41,14 +39,3 @@ This is a high-definition texture pack for the game Mario Kart 64, for emulators
      * Cache Textures
      * Use High-Res Full Alpha Channel
      * Use Hi-Res Storage
-
-## [Dolphin latest WIP build](https://dolphin-emu.org/download/)
-
-1. DDS textures are highly recommended. These can be found [here](https://evilgames.eu/texture-packs/mario-kart-64-hd.htm)
-2. Alternatively, change the branch to [Dolphin](https://github.com/GhostlyDark/MK64-HD-Dolphin) and press the "Code button" on the right side of the Github page, then "Download .ZIP".
-3. Extract the ZIP file into `%username%/Documents/Dolphin Emulator/Load/Textures` (`~/.local/share/dolphin-emu/Load/Textures` on Linux, `~/Library/Application Support/Dolphin/Load/Textures` on macOS).
-4. Graphics > Advanced > Load Custom Textures
-5. Graphics > Advanced > Prefetch Custom Textures (requires high amounts of RAM)
-
-[^cache]: The respective .htc or .hts file will need to be created during the first startup. This takes time and the created file will be stored in the cache directory. Note that Project64 is 32-bit, so using .htc is going to fail due to memory restrictions.
-[^paths]: The path to the textures may differ and can be changed using GLideN64 settings.
