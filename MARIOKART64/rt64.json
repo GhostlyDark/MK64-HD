@@ -6,7 +6,10 @@
         "defaultShift": "none",
         "hashVersion": 5
     },
-    "extraFiles": [],
+    "extraFiles": [
+        "mod.json",
+        "thumb.dds"
+    ],
     "operationFilters": [],
     "shiftFilters": [],
     "textures": [

@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "GhostlyDark"
+    ],
+    "description" : "Mario Kart 64 HD texture pack",
+    "display_name" : "MK64 Reloaded",
+    "game_id" : "mk64",
+    "id" : "MK64-Reloaded",
+    "minimum_recomp_version" : "0.0.9",
+    "short_description" : "HD texture pack",
+    "version" : "2025.07.11"
+}
